@@ -1,8 +1,8 @@
 ## Welcome to my profile!
 
 <div align="center">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ### Skills <img src="https://media4.giphy.com/media/tHIJYHQiklx6M/giphy.gif?cid=ecf05e47k5nthuykesrxtw6wbpblx0uxj7tyh093nz94tfd3&rid=giphy.gif&ct=s" width="40"> 
@@ -18,10 +18,19 @@
 ### Social <img src="https://media0.giphy.com/media/mw3CHQLL7oPuu2iLu5/giphy.gif?cid=790b761108089425aceef78f0583b6cffdfb67d751cd8366&rid=giphy.gif&ct=s" width="40">
   
 <div> 
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  <a href="https://www.youtube.com/channel/UCkR4fbLI5tn5xS8rwoEtIbg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.instagram.com/vitorbh_/">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://steamcommunity.com/profiles/76561198449416113">
  	<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  
+  <img src="https://img.shields.io/badge/Discord-Hyper_9015-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </div>
 
 ### Specs <img src="https://media2.giphy.com/media/3s2O1gbk6JNRK/giphy.gif?cid=ecf05e473qwoqyqmxux2da501km02jgn6z2u8j7w2uhyhwau&rid=giphy.gif&ct=s" width="40">
