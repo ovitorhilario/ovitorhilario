@@ -1,10 +1,8 @@
-~~~javascript
-console.log('welcome to my profile, my name is Vitor');
-~~~
+## Welcome to my profile!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ### Skills <img src="https://media4.giphy.com/media/tHIJYHQiklx6M/giphy.gif?cid=ecf05e47k5nthuykesrxtw6wbpblx0uxj7tyh093nz94tfd3&rid=giphy.gif&ct=s" width="40"> 
