@@ -12,27 +12,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/SheetDB-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  
 <div>
-
-### Social <img src="https://media0.giphy.com/media/mw3CHQLL7oPuu2iLu5/giphy.gif?cid=790b761108089425aceef78f0583b6cffdfb67d751cd8366&rid=giphy.gif&ct=s" width="40">
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UCkR4fbLI5tn5xS8rwoEtIbg">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.instagram.com/vitorbh_/">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://steamcommunity.com/profiles/76561198449416113">
- 	<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </a>
-  
-  <img src="https://img.shields.io/badge/Discord-Hyper_9015-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</div>
 
 ### Specs <img src="https://media2.giphy.com/media/3s2O1gbk6JNRK/giphy.gif?cid=ecf05e473qwoqyqmxux2da501km02jgn6z2u8j7w2uhyhwau&rid=giphy.gif&ct=s" width="40">
 
