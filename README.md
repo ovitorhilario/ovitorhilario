@@ -21,7 +21,8 @@
           
            
   
-<div>
-
-### Specs <img src="https://media4.giphy.com/media/tHIJYHQiklx6M/giphy.gif?cid=ecf05e47k5nthuykesrxtw6wbpblx0uxj7tyh093nz94tfd3&rid=giphy.gif&ct=s" width="30"> 
+<!--
+### Specs 
+<img src="https://media4.giphy.com/media/tHIJYHQiklx6M/giphy.gif?cid=ecf05e47k5nthuykesrxtw6wbpblx0uxj7tyh093nz94tfd3&rid=giphy.gif&ct=s" width="30">
+/-->
 
