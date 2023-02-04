@@ -1,6 +1,6 @@
 ### Hi, i'm Vitor!
 
-- 🎯 I'm studiyng Android Development
+- 🎯 I'm studying Android Development
 
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
