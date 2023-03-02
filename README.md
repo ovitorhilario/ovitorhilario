@@ -3,9 +3,10 @@
 - 🎯 I'm studying Android Development
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180rem" width="auto" style"margin-right: 10rem;" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180rem" width="auto" style"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-hilario&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <br>
 <div style="display:inline-block">
   <a href="#" target="_blank">
@@ -36,13 +37,13 @@
 ##
 
 <div> 
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-hil%C3%A1rio-327b071b4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:vitorbarbosahilario@gmail.com">
+  <a href="mailto:vitorbarbosahilario@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
