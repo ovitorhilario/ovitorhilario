@@ -1,6 +1,8 @@
 ### Hi, i'm Vitor!
 
-- 🎯 I'm studying Android Development
+- 🎯 I'm Android Developer
+- 🪐 Enthusiast in physics and mathematics
+- 🎵 Curious fact: I play guitar and transverse flute
 
 <div align="center">
   <img height="180rem" width="auto" style"margin-right: 10rem;" src="https://github-readme-stats.vercel.app/api?username=vitor-hilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
