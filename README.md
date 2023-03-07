@@ -39,20 +39,13 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/vitor-hil%C3%A1rio-327b071b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-hilario/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/vitorhilarioo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto:vitorbarbosahilario@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-<!--
-##
-### Specs 
-<img src="https://media4.giphy.com/media/tHIJYHQiklx6M/giphy.gif?cid=ecf05e47k5nthuykesrxtw6wbpblx0uxj7tyh093nz94tfd3&rid=giphy.gif&ct=s" width="30">
-### Skills <img src="https://media2.giphy.com/media/3s2O1gbk6JNRK/giphy.gif?cid=ecf05e473qwoqyqmxux2da501km02jgn6z2u8j7w2uhyhwau&rid=giphy.gif&ct=s" width="30"> 
-/-->
-
