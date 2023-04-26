@@ -4,6 +4,11 @@
 - 🪐 Enthusiast in physics and mathematics
 - 🎵 Curious fact: I play guitar and transverse flute
 
+<div align="center">
+  <img height="180rem" width="auto" style"margin-right: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ovitorhilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180rem" width="auto" style"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorhilario&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <br>
 <div style="display:inline-block">
   <a href="#" target="_blank">
