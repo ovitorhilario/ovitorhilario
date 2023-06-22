@@ -17,23 +17,23 @@
   <a href="#" target="_blank">
     <img title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="30" />
   </a>
+  <a href="#" target="_blank"> 
+    <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="30" />
+  </a>
   <a href="#" target="_blank">
     <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="30" />
   </a>
-  <a href="#" target="_blank">
-    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" />
+  <a href="#" target="_blank"> 
+    <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="30" />
   </a>
   <a href="#" target="_blank">
-    <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="30" />
+    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" />
   </a>
    <a href="#" target="_blank">
     <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30" />
   </a>
    <a href="#" target="_blank">
     <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" />  
-  </a>
-   <a href="#" target="_blank">
-    <img title="TwailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="30" >
   </a>
   
 ##
