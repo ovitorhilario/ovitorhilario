@@ -36,6 +36,10 @@
     <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" />  
   </a>
   
+### Visitas
+
+<img title="CSS3" src="https://profile-counter.glitch.me/{ovitorhilario}/count.svg" width="auto" height="25" />  
+
 ##
 
 <div> 
