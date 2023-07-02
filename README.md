@@ -4,12 +4,8 @@
 - 🪐 Enthusiast in physics and mathematics
 - 🎵 Curious fact: I play guitar and transverse flute
 
-<div align="center">
-  <img height="180rem" width="auto" style"margin-right: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ovitorhilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180rem" width="auto" style"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorhilario&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<hr>
 
-<br>
 <div style="display:inline-block">
   <a href="#" target="_blank">
     <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="30" />
@@ -35,12 +31,12 @@
    <a href="#" target="_blank">
     <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" />  
   </a>
-  
+
 ### Visitas
 
 <img title="CSS3" src="https://profile-counter.glitch.me/{ovitorhilario}/count.svg" width="auto" height="25" />  
 
-##
+<hr>
 
 <div> 
   <a href="https://www.linkedin.com/in/vitor-hilario/" target="_blank">
