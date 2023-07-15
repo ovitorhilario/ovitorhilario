@@ -1,15 +1,10 @@
-### Hey, i'm Vitor! 👋
+## Hi, There! 👋
 
-Android Developer <br>
+My name is [Vitor](https://vitorhilario.vercel.app/), I am from Brazil and I have been working as an Android Kotlin developer <br>
+You can reach me at my [e-mail](mailto:vitorbarbosahilario@gmail.com)!
 
-```kotlin
-Career.OpenToOpportunities(true)
-```
+##
 
-### You can find me on 🚀
-[Site](https://vitorhilario.vercel.app/) <br>
-[LinkedIn](https://www.linkedin.com/in/vitor-hilario/) <br>
-[Instagram](https://www.instagram.com/ovitorhilario/) <br>
-[Email](mailto:vitorbarbosahilario@gmail.com) <br>
-
-<img title="CSS3" src="https://profile-counter.glitch.me/{ovitorhilario}/count.svg" width="auto" height="20" />  
+### You can find me on 🪲 
+<a href="https://www.linkedin.com/in/vitor-hilario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@vitorhilario" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
