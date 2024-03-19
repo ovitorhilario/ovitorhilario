@@ -1,6 +1,7 @@
 ## Hi, There! 👋
 
 🧑‍💻 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Mobile Developer<br>
+👾 Software Engineering - UTFPR - 3/8
 
 <hr>
 
