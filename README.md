@@ -1,6 +1,6 @@
 ## Hi, There! 👋
 
-🧑‍💻 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Mobile Developer at @Epistemic Medical<br>
+🧑‍💻 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Mobile Developer at @Pull Up<br>
 👾 Software Engineering - UTFPR - 4/8
 
 <hr>
