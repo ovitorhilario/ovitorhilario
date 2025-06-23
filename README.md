@@ -1,6 +1,6 @@
 ## Hi, There! 👋
 
-🧑‍💻 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Software Developer at @Pull Up Electronics<br>
+🧑‍💻 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Software Developer Mobile/Front-End.
 🔷 Software Engineering, Universidade Tecnológica Federal do Paraná
 
 ### Languages
