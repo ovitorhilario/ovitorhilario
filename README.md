@@ -20,4 +20,4 @@ My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have
 </div>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,bun,elysia,react,vite,java,kotlin,c,js,html,css,tailwind,firebase,git,postgres,docker,figma&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,bun,elysia,react,vite,java,kotlin,c,js,html,css,tailwind,firebase,git,postgres,docker,grafana,figma&perline=12)](https://skillicons.dev)
