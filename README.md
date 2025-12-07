@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="100"  src="https://i.pinimg.com/originals/a7/a8/d0/a7a8d06c754cfbbbc37e64cb118c513c.gif"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-hilario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
