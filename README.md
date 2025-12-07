@@ -14,10 +14,5 @@
 My name is [Vitor](https://vitorhilario.vercel.app/), I'm from Brazil and I have been working as an Software Engineer.
 - Software Engineering, Universidade Tecnológica Federal do Paraná
 
-<div> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovitorhilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitorhilario&layout=compact&langs_count=7&card_width=255&theme=dark"/>
-</div>
-
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,bun,elysia,react,vite,java,kotlin,c,js,html,css,tailwind,firebase,git,postgres,docker,grafana,figma&perline=12)](https://skillicons.dev)
